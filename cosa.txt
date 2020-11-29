@@ -1,0 +1,1 @@
+Hola, soy un documento de texto creado en la carpeta local de mi repositorio git.
