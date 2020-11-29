@@ -1,3 +1,7 @@
 Hola, soy un documento de texto creado en la carpeta local de mi repositorio git.
 
+
 Este texto va desde el main.
+
+Texto añadido desde la rama branch1.
+
